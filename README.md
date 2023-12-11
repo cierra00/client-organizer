@@ -42,5 +42,5 @@ Offline mode is a little buggy due to catchAll giving some occasional errors.
 I would like to recreate this application using React, where some of the bugs can be resolved. 
 
 # License
-This project is an ongoing project for class and is not to be redistributed. 
+This project is a final project for class and is not to be redistributed. 
 
