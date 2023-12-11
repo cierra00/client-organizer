@@ -1,0 +1,19 @@
+{
+  "name": "client-organizer",
+  "version": "1.0.0",
+  "description": "This is a mobile application for INF654 Mobile Web Development. This application organizes a list of clients",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cierra00/ContactMe-project-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cierra00/ContactMe-project-3/issues"
+  },
+  "homepage": "https://github.com/cierra00/ContactMe-project-3#readme"
+}
