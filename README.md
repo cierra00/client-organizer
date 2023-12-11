@@ -22,7 +22,15 @@ The purpose of this application is to show my web development skills I learned i
 
 
 ## Instructions
-
+ 1. Open VS code and open up a terminal, make sure you have NPM and Git installed. 
+ 2. Use NPM and GIT to clone the application  with the command git clone https://github.com/cierra00/client-organizer.git.
+ 3. Using the terminal or VS code. Open the repository you just downloaded/cloned.
+ 4. Using the VS code extension LiveServer click go live.
+ 5. In the address bar on the browser, there is an icon to install the application.
+ 6. You can also just use it as a web application as well.
+ 7. Optionally you can connect your cell phone to the same network as your PC and type in your ip address with
+    a :5000 into your address bar of the browser to view on mobile.
+    
 ## Authors
 
 Cierra Ray
@@ -38,6 +46,8 @@ The application will allow a user to register, login, and logout, however databa
 dispaear after user logs out. 
 
 Offline mode is a little buggy due to catchAll giving some occasional errors. 
+
+Attempted to use fiebase messaging, but ran into bugs, so I used a more simple push messaging service.
 
 I would like to recreate this application using React, where some of the bugs can be resolved. 
 
