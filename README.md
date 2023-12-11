@@ -51,6 +51,8 @@ Attempted to use fiebase messaging, but ran into bugs, so I used a more simple p
 
 I would like to recreate this application using React, where some of the bugs can be resolved. 
 
+doc.data() not a function on ui.js, howver, the application seems to be running regardless. 
+
 # License
 This project is a final project for class and is not to be redistributed. 
 
