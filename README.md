@@ -37,6 +37,8 @@ This version of the application is not a stable release, it is just inteneded fo
 The application will allow a user to register, login, and logout, however database data is present when application loads, user information will 
 dispaear after user logs out. 
 
+Offline mode is a little buggy due to catchAll giving some occasional errors. 
+
 I would like to recreate this application using React, where some of the bugs can be resolved. 
 
 # License
